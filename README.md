@@ -6,7 +6,7 @@
 
 #### 客户端
 
-![image-20230512200142156](readme.assets/image-20230512200142156.png)
+![image-20230512200142156](readme.assets/image-20230512200142156-16838934032351-16838934290688.png)
 
 ## 编译请看我
 
@@ -34,7 +34,7 @@
 
 ##### (1)查看当前gcc版本是否满足条件,如果满足可以跳过这些步骤,直接安装cpp-httplib
 
-![image-20230512193517359](C:/Users/Boss/AppData/Roaming/Typora/typora-user-images/image-20230512193517359.png)
+![image-20230512193517359](readme.assets/image-20230512193517359-16838934263096.png)
 
 ##### (2)升级gcc的方法
 
@@ -66,13 +66,13 @@ scl enable devtoolset-7 bash
 
 下载链接:https://github.com/yhirose/cpp-httplib/tags?after=v0.8.0
 
-![image-20230512194823762](C:/Users/Boss/AppData/Roaming/Typora/typora-user-images/image-20230512194823762.png)
+![image-20230512194823762](readme.assets/image-20230512194823762.png)
 
 ## 下载搜索相关的文档请看我
 
 https://www.boost.org/users/history/version_1_81_0.html
 
-![image-20230512195513517](C:/Users/Boss/AppData/Roaming/Typora/typora-user-images/image-20230512195513517.png)
+![image-20230512195513517](readme.assets/image-20230512195513517.png)
 
 ## QQ:859440223
 
