@@ -44,7 +44,7 @@
 //安装scl
 $ yum install centos-release-scl scl-utils-build
 //安装新版本gcc
-$ sudo yum install -y devtoolset-7-gcc devtoolset-7-gccc++
+$ sudo yum install -y devtoolset-7-gcc devtoolset-7-gcc-c++
 $ ls /opt/rh/
 //启动： 细节，命令行启动只能在本会话有效
 $ scl enable devtoolset-7 bash
